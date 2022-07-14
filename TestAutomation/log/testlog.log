@@ -1,0 +1,231 @@
+2022-07-13 11:33:03,238 - ebanking -INFO - URL is opened
+2022-07-13 11:33:03,727 - ebanking -INFO - Entered username
+2022-07-13 11:33:04,036 - ebanking -INFO - Entered password
+2022-07-13 11:33:04,522 - ebanking -INFO - Login test passed
+2022-07-13 11:35:09,925 - ebanking -INFO - URL is opened
+2022-07-13 11:35:10,366 - ebanking -INFO - Entered username
+2022-07-13 11:35:10,642 - ebanking -INFO - Entered password
+2022-07-13 11:35:11,067 - ebanking -INFO - Login test passed
+2022-07-13 11:56:43,018 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 11:56:43,273 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 11:56:43,674 - ebanking -INFO - Entered username
+2022-07-13 11:56:43,914 - ebanking -INFO - Entered password
+2022-07-13 11:56:44,380 - ebanking -INFO - User successfully logged in
+2022-07-13 11:57:46,452 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 11:57:46,850 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 11:57:47,269 - ebanking -INFO - Entered username
+2022-07-13 11:57:47,554 - ebanking -INFO - Entered password
+2022-07-13 11:57:47,990 - ebanking -INFO - User successfully logged in
+2022-07-13 12:18:28,459 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:18:28,657 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:18:29,025 - ebanking -INFO - Entered username
+2022-07-13 12:18:29,270 - ebanking -INFO - Entered password
+2022-07-13 12:21:45,544 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:21:45,673 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:21:45,876 - ebanking -INFO - Entered username
+2022-07-13 12:21:46,036 - ebanking -INFO - Entered password
+2022-07-13 12:24:11,469 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:24:11,705 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:24:12,154 - ebanking -INFO - Entered username
+2022-07-13 12:24:12,400 - ebanking -INFO - Entered password
+2022-07-13 12:26:11,450 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:26:11,976 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:26:12,454 - ebanking -INFO - Entered username
+2022-07-13 12:26:12,768 - ebanking -INFO - Entered password
+2022-07-13 12:26:58,772 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:26:59,115 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:26:59,498 - ebanking -INFO - Entered username
+2022-07-13 12:26:59,762 - ebanking -INFO - Entered password
+2022-07-13 12:29:06,903 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:29:07,216 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:29:07,651 - ebanking -INFO - Entered username
+2022-07-13 12:29:07,913 - ebanking -INFO - Entered password
+2022-07-13 12:35:21,360 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:35:21,844 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:35:22,267 - ebanking -INFO - Entered username
+2022-07-13 12:35:22,541 - ebanking -INFO - Entered password
+2022-07-13 12:37:46,972 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:37:47,334 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:37:47,754 - ebanking -INFO - Entered username
+2022-07-13 12:37:48,018 - ebanking -INFO - Entered password
+2022-07-13 12:41:44,724 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:41:44,952 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:41:45,332 - ebanking -INFO - Entered username
+2022-07-13 12:41:45,577 - ebanking -INFO - Entered password
+2022-07-13 12:42:53,864 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:42:53,997 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:42:54,216 - ebanking -INFO - Entered username
+2022-07-13 12:42:54,369 - ebanking -INFO - Entered password
+2022-07-13 12:43:33,693 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:43:34,050 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:43:34,472 - ebanking -INFO - Entered username
+2022-07-13 12:43:34,733 - ebanking -INFO - Entered password
+2022-07-13 12:46:36,418 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 12:46:36,781 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 12:46:37,048 - ebanking -INFO - Enter username
+2022-07-13 12:46:37,190 - ebanking -INFO - Enter password
+2022-07-13 13:09:11,783 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 13:09:11,976 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 13:09:12,206 - ebanking -INFO - Enter Valid username
+2022-07-13 13:09:12,425 - ebanking -INFO - Enter Valid password
+2022-07-13 13:09:12,799 - ebanking -INFO - User successfully logged in
+2022-07-13 13:09:52,591 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 13:09:52,711 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 13:09:53,030 - ebanking -INFO - Enter Valid username
+2022-07-13 13:09:53,281 - ebanking -INFO - Enter Valid password
+2022-07-13 13:09:53,645 - ebanking -INFO - User successfully logged in
+2022-07-13 13:49:57,642 - ebanking -INFO - URL is opened
+2022-07-13 13:59:21,796 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 13:59:22,135 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 13:59:22,542 - ebanking -INFO - Enter Valid username
+2022-07-13 13:59:22,809 - ebanking -INFO - Enter Valid password
+2022-07-13 13:59:23,194 - ebanking -INFO - User successfully logged in
+2022-07-13 14:17:04,087 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 14:17:04,249 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 14:19:10,484 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 14:19:10,616 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 14:21:32,757 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 14:21:33,141 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 14:21:33,633 - ebanking -INFO - Enter Valid username
+2022-07-13 14:21:33,912 - ebanking -INFO - Enter Valid password
+2022-07-13 14:21:34,346 - ebanking -INFO - User successfully logged in
+2022-07-13 14:44:38,840 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 14:44:39,066 - ebanking -INFO - Enter Valid username
+2022-07-13 14:44:39,275 - ebanking -INFO - Enter Valid password
+2022-07-13 14:51:18,830 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 14:51:19,163 - ebanking -INFO - Enter Valid username
+2022-07-13 14:51:19,462 - ebanking -INFO - Enter Valid password
+2022-07-13 14:52:36,160 - ebanking -INFO - Added 3 items to cart
+2022-07-13 14:53:46,525 - ebanking -INFO - Added 3 items to cart
+2022-07-13 14:53:46,727 - ebanking -INFO - clicked on cart icon
+2022-07-13 14:53:46,886 - ebanking -INFO - second item removed
+2022-07-13 14:53:47,072 - ebanking -INFO - Proceed to checkout
+2022-07-13 14:53:47,945 - ebanking -INFO - filled the details and clicked on continue.
+2022-07-13 15:19:08,872 - ebanking -INFO - Proceed to checkout
+2022-07-13 15:19:09,838 - ebanking -INFO - Payment information is correct
+2022-07-13 15:19:09,914 - ebanking -INFO - shipping info is correct
+2022-07-13 15:19:09,992 - ebanking -INFO - price info is correct
+2022-07-13 15:19:10,156 - ebanking -INFO - clicked on finish  button
+2022-07-13 15:19:10,244 - ebanking -INFO - Succesfully placed the order and verified the message
+2022-07-13 15:19:10,408 - ebanking -INFO - logo image Verified
+2022-07-13 15:26:15,229 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 15:26:15,539 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 15:26:16,009 - ebanking -INFO - Enter Valid username
+2022-07-13 15:26:16,296 - ebanking -INFO - Enter Valid password
+2022-07-13 15:26:16,780 - ebanking -INFO - User successfully logged in
+2022-07-13 15:26:18,898 - ebanking -INFO - Proceed to checkout
+2022-07-13 15:26:19,865 - ebanking -INFO - Payment information is correct
+2022-07-13 15:26:19,954 - ebanking -INFO - shipping info is correct
+2022-07-13 15:26:20,045 - ebanking -INFO - price info is correct
+2022-07-13 15:26:20,236 - ebanking -INFO - clicked on finish  button
+2022-07-13 15:26:20,326 - ebanking -INFO - Succesfully placed the order and verified the message
+2022-07-13 15:26:20,482 - ebanking -INFO - logo image Verified
+2022-07-13 15:26:21,841 - ebanking -INFO - Added 3 items to cart
+2022-07-13 15:26:21,988 - ebanking -INFO - clicked on cart icon
+2022-07-13 15:26:22,120 - ebanking -INFO - second item removed
+2022-07-13 15:26:22,275 - ebanking -INFO - Proceed to checkout
+2022-07-13 15:26:23,104 - ebanking -INFO - filled the details and clicked on continue.
+2022-07-13 15:26:23,113 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 15:26:23,303 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 15:26:23,551 - ebanking -INFO - Enter username
+2022-07-13 15:26:23,766 - ebanking -INFO - Enter password
+2022-07-13 15:28:12,726 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 15:28:13,047 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 15:28:13,466 - ebanking -INFO - Enter Valid username
+2022-07-13 15:28:13,744 - ebanking -INFO - Enter Valid password
+2022-07-13 15:28:14,158 - ebanking -INFO - User successfully logged in
+2022-07-13 15:28:15,037 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 15:29:03,749 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-13 15:29:04,156 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 15:29:04,565 - ebanking -INFO - Enter Valid username
+2022-07-13 15:29:04,839 - ebanking -INFO - Enter Valid password
+2022-07-13 15:29:05,257 - ebanking -INFO - User successfully logged in
+2022-07-13 15:29:06,858 - ebanking -INFO - Proceed to checkout
+2022-07-13 15:29:07,745 - ebanking -INFO - Payment information is correct
+2022-07-13 15:29:07,820 - ebanking -INFO - shipping info is correct
+2022-07-13 15:29:07,897 - ebanking -INFO - price info is correct
+2022-07-13 15:29:08,057 - ebanking -INFO - clicked on finish  button
+2022-07-13 15:29:08,136 - ebanking -INFO - Succesfully placed the order and verified the message
+2022-07-13 15:29:08,272 - ebanking -INFO - logo image Verified
+2022-07-13 15:29:09,601 - ebanking -INFO - Added 3 items to cart
+2022-07-13 15:29:09,746 - ebanking -INFO - clicked on cart icon
+2022-07-13 15:29:09,869 - ebanking -INFO - second item removed
+2022-07-13 15:29:10,023 - ebanking -INFO - Proceed to checkout
+2022-07-13 15:29:10,878 - ebanking -INFO - filled the details and clicked on continue.
+2022-07-13 15:29:10,888 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-13 15:29:11,038 - ebanking -INFO - SauceDemo URL opened
+2022-07-13 15:29:11,288 - ebanking -INFO - Enter username
+2022-07-13 15:29:11,526 - ebanking -INFO - Enter password
+2022-07-14 12:47:12,357 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 12:47:12,478 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 12:47:12,578 - ebanking -INFO - Enter Valid username
+2022-07-14 12:47:12,635 - ebanking -INFO - Enter Valid password
+2022-07-14 12:48:08,470 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 12:48:08,572 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 12:48:08,671 - ebanking -INFO - Enter Valid username
+2022-07-14 12:48:08,735 - ebanking -INFO - Enter Valid password
+2022-07-14 12:54:51,986 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 12:54:52,079 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 12:54:52,183 - ebanking -INFO - Enter Valid username
+2022-07-14 12:54:52,243 - ebanking -INFO - Enter Valid password
+2022-07-14 13:22:23,244 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 13:22:23,365 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 13:22:23,501 - ebanking -INFO - Enter Valid username
+2022-07-14 13:22:23,567 - ebanking -INFO - Enter Valid password
+2022-07-14 13:24:08,275 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 13:24:08,393 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 13:24:08,523 - ebanking -INFO - Enter Valid username
+2022-07-14 13:24:08,609 - ebanking -INFO - Enter Valid password
+2022-07-14 13:26:19,057 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 13:26:19,187 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 13:26:19,312 - ebanking -INFO - Enter Valid username
+2022-07-14 13:26:19,380 - ebanking -INFO - Enter Valid password
+2022-07-14 13:27:18,381 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 13:27:18,519 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 13:27:18,629 - ebanking -INFO - Enter Valid username
+2022-07-14 13:27:18,698 - ebanking -INFO - Enter Valid password
+2022-07-14 13:28:16,442 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 13:28:16,541 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 13:28:16,655 - ebanking -INFO - Enter Valid username
+2022-07-14 13:28:16,723 - ebanking -INFO - Enter Valid password
+2022-07-14 14:28:53,002 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 14:28:53,116 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 14:28:53,220 - ebanking -INFO - Enter Valid username
+2022-07-14 14:28:53,277 - ebanking -INFO - Enter Valid password
+2022-07-14 14:34:03,200 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-14 14:34:03,323 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 14:34:03,438 - ebanking -INFO - Enter username
+2022-07-14 14:34:03,497 - ebanking -INFO - Enter password
+2022-07-14 14:40:30,941 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 14:40:31,072 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 14:40:31,177 - ebanking -INFO - Enter Valid username
+2022-07-14 14:40:31,238 - ebanking -INFO - Enter Valid password
+2022-07-14 14:46:47,343 - ebanking -INFO - Proceed to checkout
+2022-07-14 14:47:42,692 - ebanking -INFO - Proceed to checkout
+2022-07-14 14:53:09,563 - ebanking -INFO - Proceed to checkout
+2022-07-14 14:54:40,803 - ebanking -INFO - Proceed to checkout
+2022-07-14 14:56:46,208 - ebanking -INFO - Proceed to checkout
+2022-07-14 14:56:46,564 - ebanking -INFO - clicked on finish  button
+2022-07-14 14:59:05,633 - ebanking -INFO - Proceed to checkout
+2022-07-14 14:59:05,968 - ebanking -INFO - clicked on finish  button
+2022-07-14 14:59:36,687 - ebanking -INFO - Proceed to checkout
+2022-07-14 14:59:37,072 - ebanking -INFO - clicked on finish  button
+2022-07-14 15:01:08,361 - ebanking -INFO - Proceed to checkout
+2022-07-14 15:01:08,758 - ebanking -INFO - clicked on finish  button
+2022-07-14 15:01:59,842 - ebanking -INFO - Proceed to checkout
+2022-07-14 15:02:00,204 - ebanking -INFO - clicked on finish  button
+2022-07-14 15:03:12,620 - ebanking -INFO - To Verify --> Login Function with valid credentials
+2022-07-14 15:03:12,723 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 15:03:12,823 - ebanking -INFO - Enter Valid username
+2022-07-14 15:03:12,888 - ebanking -INFO - Enter Valid password
+2022-07-14 15:03:13,555 - ebanking -INFO - Proceed to checkout
+2022-07-14 15:03:13,951 - ebanking -INFO - clicked on finish  button
+2022-07-14 15:03:14,626 - ebanking -INFO - Added 3 items to cart
+2022-07-14 15:03:14,692 - ebanking -INFO - clicked on cart icon
+2022-07-14 15:03:14,741 - ebanking -INFO - second item removed
+2022-07-14 15:03:14,794 - ebanking -INFO - Proceed to checkout
+2022-07-14 15:03:15,085 - ebanking -INFO - filled the details and clicked on continue.
+2022-07-14 15:03:15,090 - ebanking -INFO - To Verify --> Login Function with Invalid credentials
+2022-07-14 15:03:15,170 - ebanking -INFO - SauceDemo URL opened
+2022-07-14 15:03:15,263 - ebanking -INFO - Enter username
+2022-07-14 15:03:15,339 - ebanking -INFO - Enter password

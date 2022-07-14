@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Testcases.LoginErrorTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifyLoginFunctionalityWithInValidCred"/>
+        </methods>
+      </class> <!-- Testcases.LoginErrorTest -->
+      <class name="Testcases.CartTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="cartPageTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Testcases.CartTest -->
+      <class name="Testcases.PaymentTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="paymentPageTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Testcases.PaymentTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
